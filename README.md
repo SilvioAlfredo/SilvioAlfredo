@@ -13,13 +13,14 @@ En el área de la programación, he estudiado a distancia la diplomatura en prog
 También he formado parte de el programa ONE (Oracle Next Education).
 Estos me brindaron algunas herramientas tales como:
 
-==Java== - ==HTML== - ==CSS== - ==JAVASCRIPT== - ==SQL== - ==MySQL==
-==Desarrollo Personal== - ==Bussines Agility== - ==Gestión de Proyectos==
+> ***Java*** - ***HTML*** - ***CSS*** - ***JAVASCRIPT*** - ***SQL*** - ***MySQL*** -
+***Desarrollo Personal*** - ***Bussines Agility*** - ***Gestión de Proyectos***
+
 
 Lo que encontrarán en mi github:
-Un repositorio con el codigo y la imprementación del ==Encriptador de Texto==
-![[Pasted image 20230220162620.png]]
-Un repositorio con el codigo y la imprementación de mi ==Portafolios==
-![[Pasted image 20230220163120.png]]
+Un repositorio con el codigo y la imprementación del ***Encriptador de Texto***
+![Encriptador](https://github.com/SilvioAlfredo/SilvioAlfredo/blob/main/Pasted%20image%2020230220162620.png)
+Un repositorio con el codigo y la imprementación de mi ***Portafolio***
+![Portafolios](https://github.com/SilvioAlfredo/SilvioAlfredo/blob/main/Pasted%20image%2020230220163120.png)
 
 Finalmente añado que estoy en la búsqueda de proyectos que unifiquen mis áreas de interés.
