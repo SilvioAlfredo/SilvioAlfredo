@@ -1,7 +1,25 @@
 ### Riveros Silvio ⚡ 
 
 #### Sobre mí:
-- 🔭 Soy estudiante de programación y durante algún tiempo me he dedicado a aprender algunos lenguajes. 
-- Formalmente estudié java en un curso llamado "Diplomatura en programación java" que se dicta en UTN Bs.As. (Universidad Tecnológica Nacional).
-- Este año me e dedicado a estudiar programación tambien de manera formal en la desafiante formación que brindan Alura y Oracle en el programa ONE (Oracle Next Education).
-- Me interesa la programación y la música y estoy en la busqueda de proyectos que unifiquen ambas áreas. 
+Puedo listar algunos puntos que ayuden a una perspectiva de mi perfil.
+- Me gusta trabajar ordenado.
+- Analizar a detalle.
+- Considero al trabajo en equipo de manera organizada, como una forma de potenciar nuestras habilidades.
+- Me gusta trabajar enfocado en objetivos.
+Luego de estos puntos contaré mi trayectoria.
+Completé los niveles inicial, primario, secundario y terciario.
+A nivel terciario estoy recibido de profesor de Música, una formación que me brinda las habilidades necesarias para la elaboración he implementación de proyectos educativos en el área musical.
+En el área de la programación, he estudiado a distancia la diplomatura en programación java, dictada por la UTN de Bs.As.
+También he formado parte de el programa ONE (Oracle Next Education).
+Estos me brindaron algunas herramientas tales como:
+
+==Java== - ==HTML== - ==CSS== - ==JAVASCRIPT== - ==SQL== - ==MySQL==
+==Desarrollo Personal== - ==Bussines Agility== - ==Gestión de Proyectos==
+
+Lo que encontrarán en mi github:
+Un repositorio con el codigo y la imprementación del ==Encriptador de Texto==
+![[Pasted image 20230220162620.png]]
+Un repositorio con el codigo y la imprementación de mi ==Portafolios==
+![[Pasted image 20230220163120.png]]
+
+Finalmente añado que estoy en la búsqueda de proyectos que unifiquen mis áreas de interés.
