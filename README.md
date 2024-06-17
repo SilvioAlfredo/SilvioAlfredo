@@ -21,6 +21,6 @@ Lo que encontrarán en mi github:
 Un repositorio con el codigo y la imprementación del ***Encriptador de Texto***
 ![Encriptador](https://github.com/SilvioAlfredo/SilvioAlfredo/blob/main/Pasted%20image%2020230220162620.png)
 Un repositorio con el codigo y la imprementación de mi ***Portafolio***
-![Portafolios](https://github.com/SilvioAlfredo/SilvioAlfredo/blob/main/Pasted%20image%2020230220163120.png)
+![Portafolios](https://github.com/SilvioAlfredo/SilvioAlfredo/assets/68716254/f66d924e-5291-4c40-91cd-6bfabb3cb762)
 
 
