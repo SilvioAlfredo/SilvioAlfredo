@@ -1,13 +1,12 @@
 ### Riveros Silvio ⚡ 
 
 #### Sobre mí:
-Puedo listar algunos puntos que ayuden a una perspectiva de mi perfil.
-- Me gusta trabajar ordenado.
-- Analizar a detalle.
-- Considero al trabajo en equipo de manera organizada, como una forma de potenciar nuestras habilidades.
+- Creo importante trabajar ordenado.
+- Analizar a detalle cuando es necesario.
+- Considero al trabajo en equipo como una forma de potenciar nuestras habilidades, como así tambień la buena relación con quienes nos rodeamos.
 - Me gusta trabajar enfocado en objetivos.
 Actualmente estuddio la Tecnicatura Superior en Desarrollo de Software, que se dicta en la Escuela Superior de Comercio (Río Tercero, Córdoba, Argentina).
-Me apasiona descubrir cosas nuevas, sean herramientas, conocimientos, y enfrentarme a desafíos, también considero de importancia el trabajo en equipo, el orden y la practicidad.
+Me apasiona descubrir cosas nuevas, sean herramientas, conocimientos, y enfrentarme a desafíos.
 Sobre mi formación puedo decir: 
 - Profesor de Música recibido en el año 2022 (Conservatorio Superior de música Juan José Castro. Río Tercero, Córdoba, Argentina)
 - Oracle Next Education 2022.
