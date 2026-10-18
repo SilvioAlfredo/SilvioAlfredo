@@ -1,6 +1,6 @@
 # Hola, soy Silvio Riveros 👋
 
-### Desarrollador Java & Backend | Java · Spring Boot · Python · Rust · React
+### Desarrollador de Software | Java · Python · Rust · React · Springboot · Nextjs · Expo 
 
 📍 Córdoba, Argentina — [Portafolio en vivo](https://silvioalfredo.github.io/Portafolio-Riveros-Silvio/)
 
@@ -96,7 +96,7 @@ Los mismos 6 del portafolio ([ver en vivo](https://silvioalfredo.github.io/Porta
 ## 🎓 Formación
 
 - **Tecnicatura Superior en Desarrollo de Software** — Escuela Superior de Comercio Sede Universidad Provincial de Córdoba, Río Tercero (por terminar)
-- **Diplomatura en Programación Java** — UTN FRBA
+- **Diplomatura en Programación Java** — UTN FRBA, 2016
 - **Desarrollo Full Stack** — Codo a Codo
 - **Oracle Next Education (ONE)** — Alura, 2022
 - **Profesor de Música** — Conservatorio Superior Juan José Castro, 2022
